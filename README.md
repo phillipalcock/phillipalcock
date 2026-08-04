@@ -4,8 +4,8 @@ I write AI workflows for teachers and creatives.
 
 ## What I build
 
-- **Claude Code skills for short-form video** — turning raw footage and transcripts into ranked, ready-to-edit clips for TikTok, Reels, and Shorts ([code-clipping](https://github.com/phillipalcock/code-clipping), [viral-clip-finder](https://github.com/phillipalcock/viral-clip-finder))
-- **A growing skills library** for AI image production, AI music production, instructional design — worksheet and escape-room generators — and workflow improvement ([skills-collection](https://github.com/phillipalcock/skills-collection))
+- **Claude Code skills for short-form video** - turning raw footage and transcripts into ranked, ready-to-edit clips for TikTok, Reels, and Shorts ([code-clipping](https://github.com/phillipalcock/code-clipping), [viral-clip-finder](https://github.com/phillipalcock/viral-clip-finder))
+- **A growing skills library** for AI image production, AI music production, instructional design - worksheet and escape-room generators - and workflow improvement ([skills-collection](https://github.com/phillipalcock/skills-collection))
 
 ## About me
 
