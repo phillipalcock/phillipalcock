@@ -9,7 +9,7 @@ I write AI workflows for teachers and creatives.
 
 ## About me
 
-I'm the co-founder of PBL Future Labs, where I help schools redesign learning with AI. I write about AI workflows and creative tooling on my Substack — this repo is where the actual Claude Code skills I build and use end up.
+I'm the co-founder of PBL Future Labs, where I help schools redesign learning with AI. I write about AI workflows and creative tooling on my Substack - this repo is where the best Claude Code skills I build and use end up.
 
 ## Elsewhere
 
