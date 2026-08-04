@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Phillip Alcock
 
-<!--
-**phillipalcock/phillipalcock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write AI workflows for teachers and creatives.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+- **Claude Code skills for short-form video** — turning raw footage and transcripts into ranked, ready-to-edit clips for TikTok, Reels, and Shorts ([code-clipping](https://github.com/phillipalcock/code-clipping), [viral-clip-finder](https://github.com/phillipalcock/viral-clip-finder))
+- - **A growing skills library** for AI image production, AI music production, instructional design, and workflow improvement ([skills-collection](https://github.com/phillipalcock/skills-collection))
+ 
+  - ## Elsewhere
+  - - Website: [phillipalcock.com](https://www.phillipalcock.com)
+    - - Writing: [phillipalcock.substack.com](https://phillipalcock.substack.com)
+      - 
